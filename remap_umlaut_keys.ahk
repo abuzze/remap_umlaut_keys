@@ -8,3 +8,5 @@
 +#o:: Send Ö
 +#a:: Send Ä
 +#u:: Send Ü
+;ins
+F13:: Send +{Ins}
